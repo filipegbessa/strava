@@ -1,0 +1,35 @@
+# NPM
+node_modules
+packages
+
+# IDE
+.vscode
+.idea
+.history
+
+# Build
+dist
+build
+.gradle
+
+#SO
+.DS_Store
+
+#TMP
+tmp
+
+# Coverage
+coverage
+test-report.json
+
+ios
+android/app/build
+android/.gradle
+
+*.class
+
+# scripts
+*.sh
+
+# yarn
+yarn.lock
